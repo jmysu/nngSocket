@@ -1,7 +1,7 @@
 # nngSocket
   nng test stuff with Python and Arduino C++
   <br/>
-  使用Python/Arduino sockets模擬nng-PUB/SUB的 Handshake並發送接收訂閱資料
+  使用Python/Arduino sockets模擬nng-PUB/SUB的Handshake並發送接收訂閱資料
   <br/>
   
 # References
@@ -14,5 +14,5 @@
   ![nng PubSub](pictures/nngPubSub.png)
   <br/>
 
-  ### Python Socket as NNG-Sub
-  ![sktSub.py] (pictures/nngPythonSocket.png)
+  ### Python Socket as Subscriber, pynng as Publisher
+  ![sktSub.py] (pictures/nngPythonSkt.png)
