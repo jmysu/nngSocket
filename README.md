@@ -18,6 +18,6 @@
 ### NNG Pub/Sub Wireshark Dump
 ![nng PubSub](pictures/nngPubSub.png)
 <br/>
-### Python Socket as Subscriber, pynng as Publisher
+### Python Socket as Subscriber (for single publisher), pynng as Publisher
 訂閱端 用Python Sockets, 發送端 使用pynng包裹libnng...<br/>
 ![sktSub.py](pictures/nngPythonSkt.png)
