@@ -7,8 +7,10 @@
 # References
 - [nanomsg RFC SP spec](https://github.com/nanomsg/nanomsg/blob/master/rfc/sp-tcp-mapping-01.txt)
   <br/>
-  ![Detecting nng](pictures/nngWireshark.png)
+  ![nng Pair0](pictures/nngPairWireshark.png)
   <br/>
+  ![nng PubSub](pictures/nngPubSubSocket.png)
+  
   <br/>
 
 - [sktSub.py] (pictures/nngSocketSub.png)
