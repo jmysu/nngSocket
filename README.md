@@ -3,7 +3,7 @@
   <br/>
   <br/>
   
-  使用Python sockets模擬nng-PUB/SUB的Handshake並發送接收訂閱資料
+  使用Python/Arduino sockets 模擬nng-PUB/SUB的Handshake 並發送接收訂閱資料
   <br/>
   
 # References
@@ -19,4 +19,5 @@
 ![nng PubSub](pictures/nngPubSub.png)
 <br/>
 ### Python Socket as Subscriber, pynng as Publisher
+訂閱端 用Python Sockets, 發送端 使用pynng包裹libnng...<br/>
 ![sktSub.py](pictures/nngPythonSkt.png)
