@@ -21,3 +21,6 @@
 ### Python Socket as Subscriber (for single publisher), pynng as Publisher
 訂閱端 用Python Sockets, 發送端 使用pynng包裹libnng...<br/>
 ![sktSub.py](pictures/nngPythonSkt.png)
+### Python Socket as Bus receiver, using nngcat sending test message...
+![nngBus Wireshark](pictures/nngBusWireshark.png)
+![sktBus.py](pictures/nngBus.png)
